@@ -1,0 +1,126 @@
+﻿@model ETicaret.ViewModels.MagazaBilgiViewModel
+
+@{
+    ViewData["Title"] = "Bilgiler";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Bilgiler</h2>
+
+<h4>Magaza</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Bilgiler">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MagazaId" />
+            <div class="form-group">
+                <label asp-for="MagazaAdi" class="control-label"></label>
+                <input asp-for="MagazaAdi" class="form-control" placeholder="@Model.Magaza.MagazaAdi"/>
+                <span asp-validation-for="MagazaAdi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <select asp-for="IlceID" asp-items="@{new SelectList(Model.Ilceler,"ID","Ilismi" )}" class="custom-select mb-2 mr-sm-2 mb-sm-0" id="inlineFormCustomSelect1">
+                </select>
+                @*<label asp-for="IlceID" class="control-label"></label>
+        <input asp-for="IlceID" class="form-control" />
+        <span asp-validation-for="IlceID" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="MagazaTur" class="control-label"></label>
+                <select asp-for="MagazaTur" asp-items="@{new SelectList(Model.Kategoriler,"ID","Tur" )}" class="form-control" ></select>
+                <span asp-validation-for="MagazaTur" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ilismi" class="control-label"></label>
+                <input asp-for="Ilismi" class="form-control" placeholder="@Model.Ilismi" readonly="readonly" type="text"/>
+                <span asp-validation-for="Ilismi" class="text-danger" ></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MagazaMail" class="control-label"></label>
+                <input asp-for="MagazaMail" class="form-control" placeholder="@Model.Magaza.MagazaMail" />
+                <span asp-validation-for="MagazaMail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MagazaTel" class="control-label" ></label>
+                <input asp-for="MagazaTel" class="form-control" placeholder="@Model.Magaza.MagazaTel" />
+                <span asp-validation-for="MagazaTel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MagazaTanitim" class="control-label"></label>
+                <input asp-for="MagazaTanitim" class="form-control" placeholder="@Model.Magaza.MagazaTanitim" />
+                <span asp-validation-for="MagazaTanitim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Kapasite" class="control-label"></label>
+                <input asp-for="Kapasite" class="form-control" placeholder="@Model.Magaza.Kapasite" />
+                <span asp-validation-for="Kapasite" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MagazaAdres" class="control-label"></label>
+                <input asp-for="MagazaAdres" class="form-control" placeholder="@Model.Magaza.MagazaAdres"/>
+                <span asp-validation-for="MagazaAdres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="AcikAlan" checked="@Model.Magaza.AcikAlan" /> @Html.DisplayNameFor(model => model.Magaza.AcikAlan)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="Wifi" value="@Model.Magaza.Wifi"   checked="@Model.Magaza.Wifi"/> @Html.DisplayNameFor(model => model.Magaza.Wifi)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="Otopark"   checked="@Model.Magaza.Otopark"/> @Html.DisplayNameFor(model => model.Magaza.Otopark)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="Alkol" checked="@Model.Magaza.Alkol" /> @Html.DisplayNameFor(model => model.Alkol)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="MacYayini" value="@Model.Magaza.MacYayini" checked="@Model.Magaza.MacYayini"/> @Html.DisplayNameFor(model => model.Magaza.MacYayini)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="Oyun" checked="@Model.Magaza.Oyun" /> @Html.DisplayNameFor(model => model.Oyun)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="Kart" checked="@Model.Magaza.Kart"/> @Html.DisplayNameFor(model => model.Kart)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+               
+                <input type="hidden" asp-for="UserID" class="form-control" />
+                <span asp-validation-for="UserID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Güncelle" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

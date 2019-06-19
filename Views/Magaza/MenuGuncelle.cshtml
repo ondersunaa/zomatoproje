@@ -1,0 +1,56 @@
+﻿@model ETicaret.Models.Menu
+
+@{
+    ViewData["Title"] = "MenuGuncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>MenuGuncelle</h2>
+
+<h4>Menu</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="MenuGuncelle">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Tur" class="control-label"></label>
+                <select asp-for="Tur" class="form-control">
+                    <option value="Yiyecek">Yiyecek</option>
+                    <option value="İçecek">İçecek</option>
+                    <option value="Tatlı">Tatlı</option>
+                </select>
+                <span asp-validation-for="Tur" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Isim" class="control-label"></label>
+                <input asp-for="Isim" class="form-control" placeholder="@Model.Isim" />
+                <span asp-validation-for="Isim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiyat" class="control-label"></label>
+                <input asp-for="Fiyat" class="form-control" placeholder="@Model.Fiyat" />
+                <span asp-validation-for="Fiyat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Aciklama" class="control-label"></label>
+                <textarea asp-for="Aciklama" class="form-control" placeholder="@Model.Aciklama"></textarea>
+                <span asp-validation-for="Aciklama" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                <input type="hidden" asp-for="MagazaID" class="form-control" />
+                <span asp-validation-for="MagazaID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Güncelle" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Menu" class="btn btn-dark">Menü İşlemlerine Dön</a>
+</div>
+

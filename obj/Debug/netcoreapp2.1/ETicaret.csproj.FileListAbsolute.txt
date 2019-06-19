@@ -1,0 +1,231 @@
+C:\Users\Section2\source\repos\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.deps.json
+C:\Users\Section2\source\repos\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.json
+C:\Users\Section2\source\repos\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.dev.json
+C:\Users\Section2\source\repos\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.dll
+C:\Users\Section2\source\repos\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.pdb
+C:\Users\Section2\source\repos\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.dll
+C:\Users\Section2\source\repos\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.pdb
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfoInputs.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfo.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.input.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.output.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorCoreGenerate.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Default\Index.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewStart.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.Views.pdb
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.dll
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.pdb
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CopyComplete
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_magazalar.g.cshtml.cs
+G:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.deps.json
+G:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.json
+G:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.dev.json
+G:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.dll
+G:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.pdb
+G:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.dll
+G:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.pdb
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CoreCompileInputs.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfoInputs.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfo.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.input.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.output.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorCoreGenerate.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Default\Index.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewStart.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_magazalar.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.Views.pdb
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.dll
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.pdb
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CopyComplete
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filitre.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detay.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Yorumlar\Default.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Ilce\Default.g.cshtml.cs
+E:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.deps.json
+E:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.json
+E:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.dev.json
+E:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.dll
+E:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.pdb
+E:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.dll
+E:\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.pdb
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CoreCompileInputs.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfoInputs.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfo.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.input.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.output.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorCoreGenerate.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Default\Index.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewStart.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detay.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filitre.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Ilce\Default.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Yorumlar\Default.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_magazalar.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cs
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.Views.pdb
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.dll
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.pdb
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CopyComplete
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csprojAssemblyReference.cache
+E:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Iller.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Iller.g.cshtml.cs
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csprojAssemblyReference.cache
+G:\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_menu.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.deps.json
+C:\Users\bobo\Desktop\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.json
+C:\Users\bobo\Desktop\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.dev.json
+C:\Users\bobo\Desktop\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.dll
+C:\Users\bobo\Desktop\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.pdb
+C:\Users\bobo\Desktop\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.dll
+C:\Users\bobo\Desktop\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.pdb
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CoreCompileInputs.cache
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cache
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfoInputs.cache
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfo.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.input.cache
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.output.cache
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorCoreGenerate.cache
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Default\Index.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewStart.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detay.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filitre.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Ilce\Default.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Yorumlar\Default.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Iller.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_magazalar.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_menu.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cache
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.Views.pdb
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.dll
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.pdb
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CopyComplete
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Index.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Creat.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Login.g.cshtml.cs
+C:\Users\bobo\Desktop\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csprojAssemblyReference.cache
+D:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.deps.json
+D:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.json
+D:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.dev.json
+D:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.dll
+D:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.pdb
+D:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.dll
+D:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.pdb
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csprojAssemblyReference.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CoreCompileInputs.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfoInputs.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfo.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.input.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.output.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorCoreGenerate.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Default\Index.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewStart.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detay.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filitre.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Creat.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Index.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Login.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Ilce\Default.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Yorumlar\Default.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Iller.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_magazalar.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_menu.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cache
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cs
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.Views.pdb
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.dll
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.pdb
+D:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CopyComplete
+G:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.deps.json
+G:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.json
+G:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.runtimeconfig.dev.json
+G:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.dll
+G:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.pdb
+G:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.dll
+G:\aspcore login\ETicaret\ETicaret\bin\Debug\netcoreapp2.1\ETicaret.Views.pdb
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CoreCompileInputs.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorAssemblyInfo.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfoInputs.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.AssemblyInfo.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.input.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.TagHelpers.output.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorCoreGenerate.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Default\Index.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_LayoutAdmin.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Areas\_ViewStart.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detay.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Filitre.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Creat.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Index.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Kullanici\Login.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Ilce\Default.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Yorumlar\Default.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Iller.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_magazalar.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_menu.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.RazorTargetAssemblyInfo.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.Views.pdb
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.dll
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.pdb
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csproj.CopyComplete
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Magaza\Creat.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Magaza\Login.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Magaza\Index.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Magaza\Yorumlar.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Magaza\Menu.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Magaza\MenuGuncelle.g.cshtml.cs
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\ETicaret.csprojAssemblyReference.cache
+G:\aspcore login\ETicaret\ETicaret\obj\Debug\netcoreapp2.1\Razor\Views\Magaza\Bilgiler.g.cshtml.cs

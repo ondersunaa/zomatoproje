@@ -1,0 +1,243 @@
+﻿@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@model ETicaret.ViewModels.DetayViewModel
+@{
+    ViewData["Title"] = "Detay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Magaza Detay</h2>
+<div>
+    <!-- Swiper -->
+    <img class="m-3 w-100" height="350" src="~/images/@Model.Magaza.FotoGenel2" />
+</div>
+<!--//END BOOKING -->
+<!--============================= RESERVE A SEAT =============================-->
+<section class="reserve-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h5>@Model.Magaza.MagazaAdi</h5>
+                <h5 class="text-danger">@Model.MagazaTur</h5>
+                <h5 class="text-danger ml-3">@Model.Il.Ilismi</h5>
+            </div>
+            <div class="col-md-6">
+                <div class="reserve-seat-block">
+                    <div class="reserve-rating">
+                        <span>@Model.MagazaOrtalama</span>
+                    </div>
+                    <div class="review-btn">
+                        <a href="#Yer" class="btn btn-outline-danger">Yorum yap</a>
+
+                    </div>
+                    <div class="reserve-btn">
+                        <div class="featured-btn-wrap">
+                            <a href="#" class="btn btn-danger">Yorumları gör</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--//END RESERVE A SEAT -->
+<!--============================= BOOKING DETAILS =============================-->
+<section class="light-bg booking-details_wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 responsive-wrap">
+                <div class="booking-checkbox_wrap">
+                    <div class="booking-checkbox">
+                        <p>@Model.Magaza.MagazaTanitim</p>
+
+                        <hr>
+                    </div>
+                    <div class="row">
+                        @foreach (var item in Model.Ozellikler)
+                        {
+
+                            <div class="col-md-3">
+                                <label class="custom-checkbox">
+                                    <img src="~/images/tik.png" width="20" height="20" />
+                                    <span class="custom-control-description"><p>@item</p></span>
+                                </label>
+                            </div>
+
+                        }
+                    </div>
+                </div>
+                <a name="Yer"></a>
+                <div class="booking-checkbox_wrap mt-4">
+                    <h5></h5>
+                    <hr>
+                    @await Component.InvokeAsync("Yorumlar", Model.Magaza.MagazaId)
+                </div>
+
+                <div class="col-lg-12">
+                    <div class="p-5">
+                        <div class="text-center">
+                            <h1 class="h4 text-gray-900 mb-4">Yorum Yap</h1>
+                        </div>
+                        <form asp-action="Index" asp-controller="Default" class="user" method="post">
+                            <div class="text-danger" asp-validation-summary="All"></div>
+                            <div class="form-group row">
+                                <div class="col-sm-6 mb-3 mb-sm-0 ">
+                                    <input asp-for="Baslik" class="form-control form-control-user" placeholder="Başlık" />
+                                </div>
+                                <div class="input-group  col-sm-6 mb-3 mb-sm-0">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text" for="inputGroupSelect01">Puan</label>
+                                    </div>
+                                    <select class="custom-select" id="inputGroupSelect01" asp-for="Puan">
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                    </select>
+                                </div>
+
+                            </div>
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend ">
+                                    <span class="input-group-text">Yorumunuz</span>
+                                </div>
+                                <textarea asp-for="YorumIcerik" class="form-control" aria-label="Yorumunuz..."></textarea>
+                            </div>
+                            <input type="hidden" asp-for="MagazaId" />
+
+                            <div class="form-group">
+
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    var user = await UserManager.FindByNameAsync(User.Identity.Name);
+                                    var b = user.MagazaAdi;
+                                    if (b != null)
+                                    {
+
+                                        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                                            <strong>Yoruma Kapalı</strong> Yalnızca kullanıcılar yorum yapabilir. Mağazalar için bu özellik aktif değil.
+                                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <input type="submit" class="btn btn-outline-danger btn-contact input-group" asp-action="YorumEkle" asp-controller="Home" value="Gönder" />
+
+                                    }
+
+                                }
+                                else
+                                {
+
+                                    <a asp-action="Login" asp-controller="Kullanici" class="btn btn-outline-danger btn-contact input-group ">Gönder</a>
+                                }
+
+                            </div>
+                            <hr>
+                        </form>
+                        <hr>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+            <!-- Bootstrap core JavaScript-->
+            <script src="vendor/jquery/jquery.min.js"></script>
+            <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+            <!-- Core plugin JavaScript-->
+            <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+            <!-- Custom scripts for all pages-->
+            <script src="js/sb-admin-2.min.js"></script>
+            <div class="col-md-4 responsive-wrap">
+                <div class="contact-info">
+                    <img src="~/images/@Model.Magaza.FotoGenel" class="img-fluid" alt="#">
+                    <div class="address">
+                        <span class="icon-location-pin"></span>
+                        <p><br><br>Adres: @Model.Magaza.MagazaAdres <br></p>
+                    </div>
+                    <div class="address">
+                        <span class="icon-screen-desktop"></span>
+                        <p>Tel: @Model.Magaza.MagazaTel</p>
+                    </div>
+                    <div class="address">
+                        <span class="icon-link"></span>
+                        <p>Mail: @Model.Magaza.MagazaMail</p>
+                    </div>
+                    <div class="address">
+                        <span class="icon-clock"></span>
+                        <p>
+                            09:30 - 00:30 <br>
+
+                        </p>
+                    </div>
+                    <a href="#" class="btn btn-outline-danger btn-contact">Ara</a>
+                </div>
+                <div class="follow">
+                    <div class="follow-img">
+                        <img src="~/images/@Model.Magaza.FotoGenel" class="img-fluid" alt="#">
+                        <h6>@Model.Magaza.MagazaAdi</h6>
+                        <span>@Model.Il.Ilismi</span>
+                    </div>
+                    <ul class="social-counts">
+                        <li>
+                            <h6>326</h6>
+                            <span>Takipçi</span>
+                        </li>
+                        <li>
+                            <h6>12</h6>
+                            <span>Takip</span>
+                        </li>
+                    </ul>
+                    <a href="#">Takip Et</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<partial name="_menu" />
+<script src="~/modules/detay/js/jquery-3.2.1.min.js"></script>
+<script src="~/modules/detay/js/popper.min.js"></script>
+<script src="~/modules/detay/js/bootstrap.min.js"></script>
+<!-- Magnific popup JS -->
+<script src="~/modules/detay/js/jquery.magnific-popup.js"></script>
+<!-- Swipper Slider JS -->
+<script src="~/modules/detay/js/swiper.min.js"></script>
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 3,
+        slidesPerGroup: 3,
+        loop: true,
+        loopFillGroupWithBlank: true,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+    });
+</script>
+<script>
+    if ($('.image-link').length) {
+        $('.image-link').magnificPopup({
+            type: 'image',
+            gallery: {
+                enabled: true
+            }
+        });
+    }
+    if ($('.image-link2').length) {
+        $('.image-link2').magnificPopup({
+            type: 'image',
+            gallery: {
+                enabled: true
+            }
+        });
+    }
+</script>

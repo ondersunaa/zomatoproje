@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Yorum>
+@foreach (var item in Model)
+{
+    <div class="customer-review_wrap">
+        <div class="customer-img">
+            <img src="~/images/Adsız.jpg" class="img-fluid" alt="#">
+            <p></p>
+            
+        </div>
+        <div class="customer-content-wrap">
+            <div class="customer-content">
+                <div class="customer-review">
+                    <h6>@item.Baslik</h6>
+                    @for (int i = 0; i < item.Puan; i++)
+                    {
+                        <span></span>
+                    }
+
+                    @for (int i = 0; i < 5- item.Puan; i++)
+                    {
+                        <span class="round-icon-blank"></span>
+                    }
+
+                   
+                </div>
+                <div class="customer-rating">@item.Puan</div>
+            </div>
+            <p class="customer-text">
+              @item.YorumIcerik
+            </p>
+            
+        </div>
+    </div>
+    <hr>
+}
+

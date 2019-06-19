@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Iller>
+<div class="row d-flex justify-content-center">
+    <div class="col-md-12">
+        <form class="form-wrap mt-2" method="post">
+            <div class="btn-group" role="group" aria-label="Basic example">
+                <div class="input-group">
+                    <select class="custom-select " id="inputGroupSelect04">
+                        @foreach (var item in Model)
+                        {
+                            <option>@item.Ilismi</option>
+                        }
+                    </select>
+                    <div class="input-group-append h-100 mr-2">
+                        <input type="submit" asp-action="Ilce" asp-controller="Home" class="btn-group btn-outline-warning" />
+                    </div>
+                </div>
+            </div>
+        </form>
+        @*<form class="form-wrap mt-2">
+            <div class="btn-group" role="group" aria-label="Basic example">
+                <div class="input-group">
+                    <select class="custom-select" id="inputGroupSelect04">
+                        @await Component.InvokeAsync("Ilce")
+                    </select>
+                    <div class="input-group-append h-100 mr-2">
+                        <button asp-controller="Home" asp-action="Filitre" class="btn btn-outline-danger" type="button">Ara</button>
+                    </div>
+                </div>
+                
+            </div>
+        </form>*@
+    </div>
+</div>
